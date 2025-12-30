@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hello! I'm a Frontend & Mobile Developer<br>I specialize in HTML, CSS, JavaScript, and Flutter, crafting responsive websites and cross-platform mobile apps.<br>Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussion!<br><br>Fun fact<br>I can center a div with my eyes closed! (Well, almost 😄)
+👨‍💻 Hello! I'm a Frontend & Mobile Developer<br>I specialize in HTML, CSS, JavaScript, TypeScript and Flutter, crafting responsive websites and cross-platform mobile apps.<br>Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussion!<br><br>Fun fact<br>I can center a div with my eyes closed! (Well, almost 😄)
 
 
 ## 🌐 Socials:
